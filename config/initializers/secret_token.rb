@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-DataEngineering::Application.config.secret_token = '7d3524e744f6ce8b16d1f1ecc594ac441b58f608e2c75832689c6a42156ba8211a666903cac235522de0a41fd1c850f776af1cb1c308b3c6d694c5cfc217e583'
+DataEngineering::Application.config.secret_token = '6330c3882758c958713759fc4c3e13c043e5c6a2ea0fcbd8c2829bdb48db6f9d13ea4e69d60993e41537c995140b00016c058eda3a59765e760c053e0c905c52'
