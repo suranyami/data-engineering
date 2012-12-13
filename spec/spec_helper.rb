@@ -16,8 +16,6 @@ Spork.prefork do
 
   require 'database_cleaner'
 
-  DatabaseCleaner.strategy = :transaction
-
   RSpec.configure do |config|
     config.mock_with :rspec
     config.before(:suite) do
