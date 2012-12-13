@@ -1,4 +1,17 @@
-# Challenge for Software Engineer - Big Data 
+Installation requirements
+-------------------------
+
+    bundle install
+
+Install POW: http://pow.cx
+
+    curl get.pow.cx | sh
+    cd ~/.pow
+    ln -s ~/development/data-engineering data-engineering
+
+    brew install mongo
+
+# Challenge for Software Engineer - Big Data
 To better assess a candidates development skills, we would like to provide the following challenge.  You have as much time as you'd like (though we ask that you not spend more than a few hours).
 
 There are three jobs that both use this challenge:
